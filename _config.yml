@@ -97,6 +97,9 @@ author:
   avatar : "/assets/images/bio-photo.JPG"
   bio    : "Electronics engineer focused on Neuroscience. Sleep advocate"
   links:
+    - label: "e-mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mnavarretem@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mnavarretem.github.io/"
