@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Engineer, Neuroscientist & Data Scientist"
 name                     : 
 description              : "Hi, I am Miguel Navarrete. I am an early career researcher in brain oscillations"
-url                      : #"https://mnavarretem.github.io/"
+url                      : "https://mnavarretem.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mnavarretem/mnavarretem.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name   : "I am Miguel"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Hi, I am Miguel"
+  avatar : "/assets/images/bio-photo.JPG"
   bio    : "Electronics engineer focused on Neuroscience. Sleep advocate"
   links:
     - label: "Website"
