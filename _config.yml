@@ -25,7 +25,7 @@ description              : "Hi, I am Miguel Navarrete. I am an early career rese
                           contribute to the development of neurosciences. 
                           My research is focused on the study of signal processing methods for the analysis 
                           of brain activity."
-url                      : "https://mnavarretem.github.io/"
+url                      : #"https://mnavarretem.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mnavarretem/mnavarretem.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
