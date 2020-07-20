@@ -20,11 +20,7 @@ title                    : "Miguel Navarrete, PhD"
 title_separator          : "-"
 subtitle                 : "Engineer, Neuroscientist & Data Scientist"
 name                     : 
-description              : "Hi, I am Miguel Navarrete. I am an early career researcher in brain oscillations. 
-                          I am passionate about the multiple possibilities that engineering has in order to 
-                          contribute to the development of neurosciences. 
-                          My research is focused on the study of signal processing methods for the analysis 
-                          of brain activity."
+description              : "Hi, I am Miguel Navarrete. I am an early career researcher in brain oscillations"
 url                      : #"https://mnavarretem.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mnavarretem/mnavarretem.github.io"
@@ -97,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name   : ""
+  name   : "I am Miguel"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Electronics engineer focused on Neuroscience. Sleep advocate"
   links:
