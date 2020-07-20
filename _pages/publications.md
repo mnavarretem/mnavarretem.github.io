@@ -61,6 +61,3 @@ Le Van Quyen M, Genin A, Steiner A, Valderrama M, **Navarrete M**. System for bi
 * Slow wave sleep modulation via transcranial current stimulation in stressed rats: its relation to hippocampal memory [Poster as collaborator]. IBRO-2015. Brasil
 
 * Identification of pre-ictal states based on an EEG-ECG multi-feature clustering approach. 6th International Workshop on Seizure Prediction (IWSP) [Poster as collaborator]. San Diego, USA. Nov 2013
-
-
-* 
