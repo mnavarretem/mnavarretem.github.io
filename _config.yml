@@ -115,6 +115,9 @@ author:
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Miguel_Navarrete4"
+    - label: "Google Scholar"
+      icon: "fab fa fa-graduation-cap"
+      url: "https://scholar.google.fr/citations?user=zMhatBwAAAAJ&hl=en"
     - label: "CvLAC"
       icon: "fa fa-fw fa-spinner"
       url: "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000647217"
@@ -137,6 +140,9 @@ footer:
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Miguel_Navarrete4"
+    - label: "Google Scholar"
+      icon: "fab fa fa-graduation-cap"
+      url: "https://scholar.google.fr/citations?user=zMhatBwAAAAJ&hl=en"
 
 
 # Reading Files

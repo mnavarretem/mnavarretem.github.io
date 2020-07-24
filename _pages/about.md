@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-## About me
+## This is me
 
 <p align="center"> 
 <img src="\assets\images\subject_mgnm.jpg">
