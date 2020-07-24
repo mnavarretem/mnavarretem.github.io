@@ -9,6 +9,8 @@ tags:
   - papers
   - hfo
   - ieeg
+header:
+  teaser: /assets/post_pictures/p20170226_hfoMethods_detections.png
 ---
 
 A review was published recently at *J. Physiol. Paris* were we discuss recent methodoligcal advances in the analysis of High Frequency Oscillations (HFOs).

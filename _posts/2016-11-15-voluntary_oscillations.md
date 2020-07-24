@@ -8,6 +8,8 @@ tags:
   - papers
   - neurofeedback
   - ieeg
+header:
+  teaser: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep36255/MediaObjects/41598_2016_Article_BFsrep36255_Fig1_HTML.jpg?as=webp
 ---
 
 Voluntary control of oscillatory activity represents a key target in the self-regulation of brain function. In a series of amazing experiments carried out by [Juliana Corlier](https://scholar.google.com/citations?user=rr5nHgoAAAAJ&hl=en), we studied the effects of self-induced intracortical oscillatory activity (4–8 Hz) in seven neurosurgical patients using a real-time closed-loop paradigm and simultaneous macro- and micro-electrode recordings,. 

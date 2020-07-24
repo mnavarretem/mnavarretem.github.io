@@ -9,6 +9,8 @@ tags:
   - papers
   - hfo
   - ieeg
+header:
+  teaser: /assets/post_pictures/p20160624_ripplelab.jpg
 ---
 
 We developed RIPPLELAB, a comprehensive application to facilitate the analysis of High Frequency Oscillations (HFOs). 

@@ -12,6 +12,8 @@ tags:
   - slow-waves
   - slow oscillations
   - spindles
+header:
+  teaser: /assets/post_pictures/p20191226_SOoptimalClick.png
 ---
 
 In a new paper published in SLEEP, we evaluated the optimal timing for enhancing NREM slow oscillations . 
