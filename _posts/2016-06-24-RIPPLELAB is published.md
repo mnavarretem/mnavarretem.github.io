@@ -3,6 +3,7 @@ title: "RIPPLELAB: A visual tool for HFO analysis"
 date: 2016-06-24T15:34:30-04:00
 categories:
   - blog
+  - extended abstract
 tags:
   - software
   - papers
