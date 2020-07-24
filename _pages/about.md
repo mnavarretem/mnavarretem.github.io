@@ -13,8 +13,8 @@ I enjoy the understanding of the complex relationships of the brain activity in 
 - **Neuroscience:** 
 	- EEG Signal Processing
 	- Multiscale EEG analysis
-	- Event detection
 	-​ Neurofeedback
+	- Event detection
 
 - **Sleep Engineering:**
 	- Oscillatory analysis of sleep
