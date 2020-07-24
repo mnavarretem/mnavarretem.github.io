@@ -1,5 +1,5 @@
 ---
-title: "Sounds during sleep. What is the best timing to boost slow waves"
+title: "Sounds during sleep. What is the best timing to boost slow waves?"
 date: 2019-12-26T15:34:30-04:00
 categories:
   - blog
@@ -18,7 +18,6 @@ In a new paper published in SLEEP, we evaluated the optimal timing for enhancing
 
 Closed-loop auditory stimulation (CLAS) is a method for enhancing slow oscillations (SOs) through the presentation of auditory clicks during sleep. CLAS boosts SOs amplitude and sleep spindle power, but the optimal timing for click delivery remains unclear. 
 
-
 <p align="center"> 
 <img src="\assets\post_pictures\p20191226_clas.png">
 </p>
@@ -27,17 +26,17 @@ Closed-loop auditory stimulation (CLAS) is a method for enhancing slow oscillati
 In this study, we determined the optimal time to present auditory clicks to maximize the enhancement of SO amplitude and spindle likelihood in young and older subjects.
 
 ![CLAS_phase](\assets\post_pictures\p20191226_clickPhase.png "Timing and phase of click on targeted slow-waves")<br/>
-	*Timing and phase of click on targeted slow-waves*
+*Timing and phase of click on targeted slow-waves*
 
 We examined the main factors predicting SO amplitude and sleep spindles in a dataset of 21 young and 17 older subjects. The participants received CLAS during slow-wave-sleep in two experimental conditions: sham and auditory stimulation. Post-stimulus SOs and spindles were evaluated according to the click phase on the SOs and compared between and within conditions.
 
 ![CLAS_measures](\assets\post_pictures\p20191226_clasMeasures.png "Evaluated slow-wave and spindle measures")<br/>
-	*Evaluated slow-wave and spindle measures*
+*Evaluated slow-wave and spindle measures*
 
 We revealed that auditory clicks applied anywhere on the positive portion of the SO increased SO amplitudes and spindle likelihood, although the interval of opportunity was shorter in the older group. For both young and older subjects, our analyses showed that the optimal timing for click delivery is close to the SO peak phase. 
 
 ![CLAS_measures](\assets\post_pictures\p20191226_SOoptimalClick.png "Optimal phase of stimulation for SO")<br/>
-	*Optimal phase of CLAS on slow-waves to enhance slow-wave amplitude*
+*Optimal phase of CLAS on slow-waves to enhance slow-wave amplitude*
 
 Click phase on the SO wave was the main factor determining the impact of auditory stimulation on spindle likelihood for young subjects, whereas for older participants, the temporal lag since the last spindle was a better predictor of spindle likelihood.
 
