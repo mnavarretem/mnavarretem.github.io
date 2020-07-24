@@ -4,6 +4,12 @@ title: "About"
 ---
 
 ## About me
+
+<p align="center"> 
+<img src="\assets\images\subject_mgnm.jpg">
+</p>
+*This is me beeing subject #2!*
+
 I am passionate about the multiple possibilities that engineering has in order to contribute to the development of neurosciences. My research is focused on the study of signal processing methods for the analysis of brain activity.
 
 I enjoy the understanding of the complex relationships of the brain activity in physiological and cognitive contexts. Specifically, I am amazed by the neural interactions at multiple levels: from the mutual dependency of the single neuron activity to the organization of structural and functional brain networks. 
