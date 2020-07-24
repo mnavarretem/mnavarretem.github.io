@@ -16,16 +16,19 @@ We developed RIPPLELAB, a comprehensive application to facilitate the analysis o
 RIPPLELAB provides a wide range of tools for HFOs manual and automatic detection and visual validation. All of them are accessible from an intuitive graphical user interface. 
 
 ![RIPPLELAB](\assets\post_pictures\2016-06-24_ripplelab.jpg "Ripplelab main window")
+*Ripplelab's main window*
 
 We implemented four methods for automated detection. Also, we implemented several options for visualization and validation of detected events.
 
 ![RIPPLELAB_options](\assets\post_pictures\2016-06-24_ripplelab_main.png "Ripplelab main options")
+*Ripplelab's main options*
 
 With RIPPLELAB is possible to develop an analysis of multiple files and channels. Furthermore, new options can be added by the users.
 
 Unlike other available software packages for EEG analysis, RIPPLELAB uniquely provides the appropriate graphical and algorithmic environment for HFOs detection (visual and automatic) and validation.
 
 ![RIPPLELAB_validation](\assets\post_pictures\2016-06-24_ripplelab_validation.png "Ripplelab validation window")
+*Ripplelab's validation window*
 
 This application gives the power of elaborated detection methods to a wide range of users (experts and nonexperts).
 

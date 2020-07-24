@@ -15,7 +15,14 @@ A review was published recently at *J. Physiol. Paris* were we discuss recent me
 
 In this report, we dicuss how  recording technologies have advanced such that oscillations of neuronal networks can be identified from simultaneous, multisite recordings at high temporal and spatial resolutions. We go further in describir the challenges that arise for those analyses. Specifically, we highlight difficulties of methods to extract meaningful information related to time, frequency and space.
 
-In this review, we aim to bridge this gap by focusing on the new analysis tools developed for the automated detection of high- frequency oscillations (HFOs, >40 Hz) in local field potentials. For this, we provide a revision of different aspects associated with physiological and pathological HFOs as well as the several stages involved in their automatic detection including preprocessing, selection, rejection and analysis through time-frequency processes. 
+![Example of HFO detections](\assets\post_pictures\2017-02-26_hfoMethods_detections.png "Example of HFO detections")
+*Examples of real and spurious HFOs identified by automatic detection methods*
+
+In this review, we aim to bridge this gap by focusing on the new analysis tools developed for the automated detection of high- frequency oscillations (HFOs, >40 Hz) in local field potentials. For this, we provide a revision of different aspects associated with physiological and pathological HFOs as well as the several stages involved in their automatic detection including preprocessing, selection, rejection and analysis through thresholding and time-frequency processes. 
+
+
+![Energy thresholding for HFO detection](\assets\post_pictures\2017-02-26_hfoMethods_thresholding.png "hfoMethods_thresholding")
+*Automatic detection of HFOs by energy thresholding*
 
 Beyond basic research, the automatic detection of HFOs would greatly assist diagnosis of epilepsy disorders based on the recognition of these typical pathological patterns in the electroencephalogram (EEG). 
 
