@@ -1,5 +1,5 @@
 ---
-title: "Sounds during sleep. What is the best timing to boost slow waves?"
+title: "Sounds during sleep. What is the best timing for boosting slow waves?"
 date: 2019-12-26T15:34:30-04:00
 categories:
   - blog
