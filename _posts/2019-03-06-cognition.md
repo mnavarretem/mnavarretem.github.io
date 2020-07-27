@@ -20,5 +20,5 @@ If you want to read more about this study, you can check our comments [here](htt
 
 > Navarrete M, Lewis PA (2019). Cognition: Learning while Asleep, Current Biology 29 (5), R164-R166 DOI: 10.1016/j.cub.2019.01.034
 
-
+*Please contact me if you’d like full-text copies of a paywalled article.*
 

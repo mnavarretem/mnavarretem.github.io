@@ -1,5 +1,5 @@
 ---
-title: "Sounds during sleep. What is the best timing for boosting slow waves?"
+title: "Entrainment brain oscillations with sounds"
 date: 2020-04-06T15:34:30-04:00
 categories:
   - blog
@@ -26,6 +26,8 @@ If you want to read more about oscillatory entrainmet be sensory stimulation, yo
 
 > David Henao, Miguel Navarrete, Mario Valderrama, Michel Le Van Quyen, Entrainment and synchronization of brain oscillations to auditory stimulations,
 Neuroscience Research, 2020, https://doi.org/10.1016/j.neures.2020.03.004
+
+*Please contact me if you’d like full-text copies of a paywalled article.*
 
 
 

@@ -57,6 +57,7 @@ If you want to read more about this study, you can check our paper in SLEEP [her
 
 > Miguel Navarrete, Jules Schneider, Hong-Viet V Ngo, Mario Valderrama, Alexander J Casson, Penelope A Lewis, Examining the optimal timing for closed-loop auditory stimulation of slow-wave sleep in young and older adults, Sleep, Volume 43, Issue 6, June 2020, zsz315, https://doi.org/10.1093/sleep/zsz315
 
+*Please contact me if you’d like full-text copies of a paywalled article.*
 
 
 
