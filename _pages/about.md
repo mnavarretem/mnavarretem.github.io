@@ -1,9 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
+
+toc: true
+toc_label: "On this page"
+toc_icon: "indent"
 ---
 
-## This is me
+## Welcome to my page! 
 
 <p align="center"> 
 <img src="\assets\images\subject_mgnm.jpg">

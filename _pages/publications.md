@@ -1,6 +1,10 @@
 ---
 permalink: /publications/
 title: "Publications"
+
+toc: true
+toc_label: "On this page"
+toc_icon: "indent"
 ---
 
 Please contact me if you’d like full-text copies of a paywalled article.

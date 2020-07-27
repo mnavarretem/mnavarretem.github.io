@@ -3,7 +3,7 @@ title: "Methodological advances for HFO analysis"
 date: 2017-02-26T09:41:11-08:00
 categories:
   - blog
-  - extended abstract
+  - reviews
 tags:
   - methods
   - papers
@@ -13,7 +13,7 @@ header:
   teaser: /assets/post_pictures/p20170226_hfoMethods_detections.png
 ---
 
-A review was published recently at *J. Physiol. Paris* were we discuss recent methodoligcal advances in the analysis of High Frequency Oscillations (HFOs).
+A review was published recently at *J. Physiol. Paris* where we discuss recent methodoligcal advances in the analysis of High Frequency Oscillations (HFOs).
 
 In this report, we dicuss how  recording technologies have advanced such that oscillations of neuronal networks can be identified from simultaneous, multisite recordings at high temporal and spatial resolutions. We go further in describir the challenges that arise for those analyses. Specifically, we highlight difficulties of methods to extract meaningful information related to time, frequency and space.
 
@@ -34,4 +34,4 @@ If you want to read more about methods on oscillation anlaysis, you can access o
 
 > Navarrete M, Pyrzowski J, Corlier J, Valderrama M, Le Van Quyen M. Automated detection of high-frequency oscillations in electrophysiological signals: Methodological advances. J Physiol Paris. 2016;110(4 Pt A):316-326. doi:10.1016/j.jphysparis.2017.02.003
 
-
+*Please contact me if you’d like full-text copies of a paywalled article.*

@@ -1,6 +1,10 @@
 ---
 permalink: /research/
 title: "Research"
+
+toc: true
+toc_label: "On this page"
+toc_icon: "indent"
 ---
 
 ## Sleep
