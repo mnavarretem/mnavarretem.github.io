@@ -34,4 +34,4 @@ If you want to read more about methods on oscillation anlaysis, you can access o
 
 > Navarrete M, Pyrzowski J, Corlier J, Valderrama M, Le Van Quyen M. Automated detection of high-frequency oscillations in electrophysiological signals: Methodological advances. J Physiol Paris. 2016;110(4 Pt A):316-326. doi:10.1016/j.jphysparis.2017.02.003
 
-*Please contact me if you’d like full-text copies of a paywalled article.*
+**Note:** Please contact me if you’d like full-text copies of a paywalled article.

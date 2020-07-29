@@ -27,4 +27,5 @@ If you want to read more about this study, you can access the paper [here](https
 
 > Corlier, J., Valderrama, M., Navarrete, M. et al. Voluntary control of intracortical oscillations for reconfiguration of network activity. Sci Rep 6, 36255 (2016). https://doi.org/10.1038/srep36255
 
+**Note:** Please contact me if you’d like full-text copies of a paywalled article.
 

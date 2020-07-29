@@ -27,7 +27,7 @@ If you want to read more about oscillatory entrainmet be sensory stimulation, yo
 > David Henao, Miguel Navarrete, Mario Valderrama, Michel Le Van Quyen, Entrainment and synchronization of brain oscillations to auditory stimulations,
 Neuroscience Research, 2020, https://doi.org/10.1016/j.neures.2020.03.004
 
-*Please contact me if you’d like full-text copies of a paywalled article.*
+**Note:** Please contact me if you’d like full-text copies of a paywalled article.
 
 
 

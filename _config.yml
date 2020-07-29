@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "sleep" # "default", "sleep", air", "aqua", "contrast
 locale                   : "en-UK"
 title                    : "Miguel Navarrete, PhD"
 title_separator          : "-"
-subtitle                 : "Engineer, Neuroscientist & Data Scientist"
+subtitle                 : ""
 name                     : 
 description              : "Hi, I am Miguel Navarrete. I am an early career researcher in brain oscillations"
 url                      : "https://mnavarretem.github.io/"

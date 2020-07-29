@@ -30,4 +30,4 @@ You can access our review [here](https://doi.org/10.1016/j.cobeha.2020.02.006)
 
 > Navarrete M, Valderrama M., Lewis PA (2020). The role of slow-wave sleep rhythms in the cortical-hippocampal loop for memory consolidation. Curr Opin Behav Sci, 102 – 110. https://doi.org/10.1016/j.cobeha.2020.02.006
 
-*Please contact me if you’d like full-text copies of a paywalled article.*
+**Note:** Please contact me if you’d like full-text copies of a paywalled article.

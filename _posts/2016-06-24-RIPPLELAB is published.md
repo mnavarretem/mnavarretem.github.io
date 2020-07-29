@@ -36,7 +36,4 @@ This application gives the power of elaborated detection methods to a wide range
 
 If you want to know more about this tool, you can access the paper [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158276), [open RIPPLELAB on GitHub](https://github.com/BSP-Uniandes/RIPPLELAB/) or [read the user manual](https://www.researchgate.net/publication/298348144_RIPPLELAB's_User_Manual)
 
-
-
-
-
+**Note:** Please contact me if you’d like full-text copies of a paywalled article.
